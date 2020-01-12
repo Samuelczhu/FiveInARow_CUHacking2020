@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FiveInARow</string>
+    <string name="title">Five In A Row</string>
+    <string name="move_instruction">Please make a move:</string>
+    <string name="reset">Reset</string>
+    <string name="start_instruction">Please enter your name. \nNote that white will start first:)</string>
+    <string name="player_one">Player 1:</string>
+    <string name="player_two">Player 2:</string>
+    <string name="start">Start</string>
+    <string name="VS">V.S.</string>
+    <string name="winner">Winner</string>
+    <string name="good_game">Good Game:)</string>
+    <string name="tie">Tie</string>
+    <string name="information">Information</string>
+    <string name="description">Description:</string>
+    <string name="description_content">This game was developed by Samuel Zhu(Carleton University), Johnny Park(Carleton University), and Abdullah Baltaji(Carleton University).\n\n
+        It was developed as a Hackathon project in CUHacking 2020.</string>
+    <string name="what_it_does">What it does?</string>
+    <string name="what_it_does_content">
+        It plays a simple five-in-a-row game, and can be controlled by voice by pressing a given mic button in the game page.\n\n
+        There is two ways to play the game, one by touch and other by voice.\n\n
+        To play by voice, one must press the mic button and speak in the given format similarly when playing chess.\n\n
+        One must give \"play &amp;#\" where &amp; indicates a alphabet letter from a to m, and # indicates a number from 1-13. The alphabet indicates the row of the board starting from the top, and the number indicates the column starting from the left.
+    </string>
+</resources>
